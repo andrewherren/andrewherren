@@ -1,6 +1,6 @@
 ### Hi there, I'm Drew 👋
 
-I am a fourth year PhD student in Statistics at Arizona State University, working with [Richard Hahn](https://math.la.asu.edu/~prhahn/). 
+I will begin working as a postdoc at UT-Austin in August 2023. I completed my PhD student in Statistics at Arizona State University, working with [Richard Hahn](https://math.la.asu.edu/~prhahn/). 
 My research interests include:
 
 * Machine learning / feature selection for causal inference
